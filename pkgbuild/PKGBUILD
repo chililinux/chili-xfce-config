@@ -2,7 +2,7 @@
 
 pkgname=chili-xfce-config
 pkgdesc="Package configuration Desktop XFCE for ChiliLinux"
-depends=('comm-skel')
+depends=('chili-skel')
 #makedepends=('')
 #optdepends=('')
 conflicts=('big-skel' 'bashrc-manjaro')
