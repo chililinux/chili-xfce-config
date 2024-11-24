@@ -33,9 +33,6 @@ GenericName[nl]=Webbrowser
 GenericName[pl]=Przeglądarka WWW
 GenericName[pt]=Navegador Web
 GenericName[pt_BR]=Navegador da Internet
-Name[pt_BR]=Navegador Brave
-Name[pt_BR]=Navegador Brave
-Name[pt_BR]=Navegador Brave
 GenericName[ro]=Navigator de Internet
 GenericName[ru]=Веб-браузер
 GenericName[sl]=Spletni brskalnik
@@ -120,7 +117,7 @@ Icon=brave-desktop
 Type=X-XFCE-Helper
 Categories=Network;WebBrowser;
 MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ipfs;x-scheme-handler/ipns;
-Actions=new-window;new-private-window;SoftwareRender;
+Actions=new-window;new-private-window;
 
 [Desktop Action new-window]
 Name=New Window
@@ -228,7 +225,3 @@ Name[zh_CN]=新建隐身窗口
 Name[zh_TW]=新增無痕式視窗
 Exec=brave --incognito
 MimeType=x-scheme-handler/unknown;x-scheme-handler/about;text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;
-
-[Desktop Action SoftwareRender]
-Name=Software Render
-Exec=SoftwareRender brave
