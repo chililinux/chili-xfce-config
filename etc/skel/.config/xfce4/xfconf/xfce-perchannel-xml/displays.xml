@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="displays" version="1.0">
-  <property name="ActiveProfile" type="string" value="db7b9b4129b0302951cbe3520f3b63c92c650707"/>
+  <property name="ActiveProfile" type="string" value="Default"/>
   <property name="Default" type="empty">
     <property name="Virtual-1" type="string" value="Red Hat, Inc. 15&quot;">
       <property name="Active" type="bool" value="true"/>
